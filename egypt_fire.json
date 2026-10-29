@@ -1,0 +1,4 @@
+{"source": "FRA Insurance Statistical Books 2022/2023 and 2023/2024 (Tables 1/6 and 2/6, thousand EGP); 2014/2015 and 2025 figures from the Insurance Federation of Egypt / FRA statements (Sept 2026)",
+ "premiums_kEGP": {"2014/15": 1350000, "2018/19": 2819675, "2019/20": 3338892, "2020/21": 3595144, "2021/22": 3985431, "2022/23": 5417688, "2023/24": 8267811},
+ "claims_kEGP":   {"2014/15": 749000,  "2018/19": 2251459, "2019/20": 833604,  "2020/21": 807613,  "2021/22": 934365,  "2022/23": 804113,  "2023/24": 1530342},
+ "y2025": {"fire_share_of_premiums": 0.18, "retention": 0.42, "loss_ratio": 0.37}}

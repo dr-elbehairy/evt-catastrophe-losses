@@ -1,0 +1,207 @@
+Year,Quarter,FirstDay,LastDay,Event,Type,Location,OriginalCost,NormCost2011,NormCost2014
+2014.0,2.0,2014-04-11,2014-04-16,Cyclone,Cyclone,QLD,8.4,,8.487
+2014.0,1.0,2014-01-11,2014-01-14,Bushfires,Bushfire,Perth,15.0,,15.228
+2013.0,4.0,2013-10-17,2013-10-27,Bushfires,Bushfire,NSW (various locations),183.4,,187.25
+2013.0,1.0,2013-01-27,2013-01-30,"Inundation , Storms",Storm,Northern NSW,121.3,,126.749
+2013.0,1.0,2013-01-21,2013-01-30,"Inundation , Storms",Storm,QLD,977.0,,1020.889
+2013.0,1.0,2013-01-13,2013-01-19,Bushfire,Bushfire,Coonabarabran,35.0,,36.572
+2013.0,1.0,2013-01-04,2013-01-10,Bushfire,Bushfire,TAS,89.0,,92.998
+2012.0,1.0,2012-02-24,2012-03-16,Flooding,Flood,"NSW , VIC",131.89,,141.264
+2012.0,1.0,2012-01-24,2012-02-15,Flooding,Flood,SW QLD,131.432,,140.773
+2011.0,4.0,2011-12-25,2011-12-25,Christmas Day Storms,Storm,Melbourne,728.64,,781.207
+2011.0,4.0,2011-11-22,2011-11-24,Margaret River Bushfires,Bushfire,Margaret River,53.45,,57.306
+2011.0,1.0,2011-02-05,2011-02-07,Perth Bushfires,Bushfire,Perth and surrounds,35.128,,38.237
+2011.0,1.0,2011-02-04,2011-02-06,Severe Storms,Storm,Melbourne and suburbs,487.615,,530.771
+2011.0,1.0,2011-02-02,2011-02-07,Cyclone Yasi,Cyclone,QLD,1412.239,,1537.229
+2011.0,1.0,2011-01-13,2011-01-18,Flooding,Flood,VIC,126.495,,137.69
+2010.0,4.0,2010-12-21,2011-01-14,Flooding,Flood,"QLD, Rural Toowoomba, Lockyer Valley",2387.624,,2636.489
+2010.0,1.0,2010-03-22,,Perth Storm,Storm,Perth,1053.0,1019.0,1092.515
+2010.0,1.0,2010-03-06,,Melbourne Storm,Storm,Melbourne,1044.0,1160.0,1243.687
+2010.0,1.0,2010-03-05,,West QLD flooding,Flood,QLD,46.7,49.0,52.535
+2009.0,4.0,2009-12-31,,Toodyay Bushfires,Bushfire,Toodyay WA,7.4,8.0,8.577
+2009.0,2.0,2009-05-21,,"Inundation , Storm Damage",Storm,"South East Queensland , Northern NSW",48.0,55.0,58.968
+2009.0,2.0,2009-04-10,,Flooding,Flood,Northern NSW,37.0,40.0,42.886
+2009.0,1.0,2009-02-07,,Victorian fires,Other,VIC,1070.0,1266.0,1357.335
+2009.0,1.0,2009-01-13,,Floods,Flood,Far North Queensland,19.0,22.0,23.587
+2008.0,4.0,2008-11-16,,Brisbane storms,Storm,Brisbane,309.0,355.0,380.611
+2008.0,2.0,2008-06-03,,"Gas Supply Disruption Varanus Isl,",Other,Western Australia,230.0,279.0,299.128
+2008.0,2.0,2008-04-20,,Wind Storm,Storm,"SA, TAS , VIC",65.0,79.0,84.699
+2008.0,1.0,2008-02-14,,Flood Storm,"Flood, Storm",Mackay,410.0,507.0,543.577
+2008.0,1.0,2008-01-17,,Flood Storms,"Flood, Storm",Emerald,70.0,85.0,91.132
+2008.0,1.0,2008-01-04,,Flood Storm,"Flood, Storm",Northern Rivers,15.0,17.0,18.226
+2007.0,4.0,2007-12-09,,Severe Hailstorms,Hailstorm,"Western Sydney, Blacktown",415.0,486.0,521.062
+2007.0,4.0,2007-10-26,,Severe Storms,Storm,Lismore Region,4.0,5.0,5.361
+2007.0,2.0,2007-06-08,2007-06-10,Severe Storm,Storm,"Newcastle , Hunter Valley",1480.0,1742.0,1867.675
+2007.0,4.0,2007-10-09,,Hail Storm,Hailstorm,Lismore Region,97.0,109.0,116.864
+2007.0,2.0,2007-06-16,,Severe Storm,Storm,Gippsland VIC,15.0,18.0,19.299
+2007.0,1.0,2007-03-08,,"Cyclone George , Jacob",Cyclone,"George , Jacob - Pilbara WA",8.0,12.0,12.866
+2007.0,1.0,2007-01-16,,Severe Storm,Storm,Wagga Wagga NSW,4.0,5.0,5.361
+2007.0,1.0,2007-01-15,,Severe Storm,Storm,Nyngan NSW,2.0,2.0,2.144
+2006.0,4.0,2006-10-31,,Hail,Hailstorm,"Newcastle , Lower Hunter Valley",51.0,60.0,64.329
+2006.0,3.0,2006-08-07,,Storm,Storm,South West WA,5.2,9.0,9.649
+2006.0,1.0,2006-03-20,,Cyclone Larry,Cyclone,Larry - North QLD,540.0,609.0,652.936
+2006.0,1.0,2006-02-01,,Bushfire,Bushfire,Widespread,14.0,16.0,17.154
+2006.0,1.0,2006-01-20,,Bushfire,Bushfire,"North, West , East VIC",22.4,28.0,30.02
+2005.0,4.0,2005-12-15,,Storm,Storm,Hunter Valley,10.0,36.0,38.597
+2005.0,4.0,2005-11-07,,"Flood, Storm","Flood, Storm",Central West NSW,3.0,4.0,4.289
+2005.0,4.0,2005-11-06,,"Flood, Storm","Flood, Storm",Broken Hill,4.0,5.0,5.361
+2005.0,4.0,2005-10-12,,Hail,Hailstorm,Gold Coast,61.0,89.0,95.421
+2005.0,2.0,2005-06-30,,"Flood, Storm","Flood, Storm",SE QLD,53.9,93.0,99.709
+2005.0,2.0,2005-06-30,,"Flood, Storm","Flood, Storm",NE NSW,25.0,37.0,39.669
+2005.0,2.0,2005-05-19,,Hail,Hailstorm,Brisbane,17.6,28.0,30.02
+2005.0,2.0,2005-05-16,,Storm,Storm,"Bunbury, South Perth",53.2,108.0,115.792
+2005.0,1.0,2005-02-20,,"Hail, Storm",Hailstorm,Eastern Seaboard,216.7,304.0,325.932
+2005.0,1.0,2005-01-11,,Bushfire,Bushfire,Eyre Peninsula,27.7,41.0,43.958
+2004.0,4.0,2004-12-26,,Tsunami,Other,South East Asia,3.0,3.0,3.216
+2004.0,4.0,2004-12-13,,"Hail, Storm",Hailstorm,"Sydney , Lismore",32.3,46.0,49.319
+2004.0,4.0,2004-12-13,,Storm,Storm,"Brisbane, Gold Coast",3.5,6.0,6.433
+2004.0,1.0,2004-01-29,,Storm,Storm,Melbourne,18.0,28.0,30.02
+2004.0,1.0,2004-01-24,,Hail,Hailstorm,"Brisbane, SE, SW",28.5,54.0,57.896
+2003.0,4.0,2003-12-31,,Hail,Hailstorm,Melbourne,100.0,156.0,167.255
+2003.0,3.0,2003-08-24,,Storm,Storm,,25.0,39.0,41.814
+2003.0,1.0,2003-01-18,,Bushfire,Bushfire,Canberra,350.0,660.0,707.615
+2003.0,1.0,2003-01-08,,Bushfire,Bushfire,Eastern Border Region,12.0,24.0,25.731
+2002.0,4.0,2002-12-24,,Storm,Storm,South East,2.0,4.0,4.289
+2002.0,4.0,2002-12-10,,Storm,Storm,South East,3.4,8.0,8.577
+2002.0,4.0,2002-10-08,,Bushfire,Bushfire,"Engadine , Glenorie",25.0,43.0,46.102
+2002.0,1.0,2002-02-16,,Storm,Storm,Sydney,10.0,19.0,20.371
+2002.0,1.0,2002-01-16,,Storm,Storm,Coastal Border,10.0,36.0,38.597
+2001.0,4.0,2001-12-30,,Storm,Storm,"Sydney , Coast",30.0,57.0,61.112
+2001.0,4.0,2001-12-25,,Bushfire,Bushfire,"Sydney , Surrounds",69.0,131.0,140.451
+2001.0,4.0,2001-11-18,,"Storm, Tornado",Tornado,"Sydney , Port Stephens",30.0,57.0,61.112
+2001.0,1.0,2001-03-09,,"Flood, Storm","Flood, Storm",Brisbane,37.0,99.0,106.142
+2001.0,1.0,2001-03-06,,"Flood, Storm","Flood, Storm","Nth Coast, Grafton, Kempsey",25.0,45.0,48.246
+2001.0,1.0,2001-01-17,,Storm,Storm,Casino,35.0,65.0,69.689
+2001.0,1.0,2001-01-15,,Storm,Storm,Sydney,12.0,24.0,25.731
+2001.0,1.0,2001-01-06,,Storm,Storm,Dubbo,15.0,28.0,30.02
+2000.0,4.0,2000-11-17,,Flood,Flood,Mackay,5.0,13.0,13.938
+2000.0,3.0,2000-09-30,,Storm,Storm,Vic Peninsula,2.0,4.0,4.289
+2000.0,2.0,2000-04-20,,Cyclone Paul,Cyclone,Nth WA,8.5,28.0,30.02
+2000.0,2.0,2000-04-02,,Cyclone Tessi,Cyclone,Nth QLD,15.0,41.0,43.958
+2000.0,1.0,2000-03-01,,Cyclone George,Cyclone,Nth WA,5.0,14.0,15.01
+2000.0,1.0,2000-02-27,,Cyclone Steve,Cyclone,Far Nth,11.0,31.0,33.236
+2000.0,1.0,2000-02-07,,"Flood, Storm","Flood, Storm",Longreach,12.0,30.0,32.164
+2000.0,1.0,2000-01-14,,"Flood, Storm","Flood, Storm",Perth,5.0,15.0,16.082
+1999.0,4.0,1999-12-26,,"Flood, Storm","Flood, Storm",,10.0,23.0,24.659
+1999.0,4.0,1999-10-24,,Storm,Storm,Sydney,40.0,89.0,95.421
+1999.0,4.0,1999-10-24,,"Flood, Storm","Flood, Storm",Wollongong,5.0,11.0,11.794
+1999.0,2.0,1999-04-14,,Hail,Hailstorm,Sydney,1700.0,4296.0,4605.932
+1999.0,1.0,1999-03-22,,Cyclone Vance,Cyclone,"Exmouth, Onslow",35.0,108.0,115.792
+1999.0,1.0,1999-03-20,,Flood,Flood,Moora,4.0,12.0,12.866
+1999.0,1.0,1999-02-12,,Cyclone Rona,Cyclone,Nth QLD,4.0,14.0,15.01
+1999.0,1.0,1999-02-07,,"Flood, Storm","Flood, Storm",SE QLD,2.0,7.0,7.505
+1998.0,4.0,1998-12-26,,"Flood, Storm","Flood, Storm",Melbourne,10.0,25.0,26.804
+1998.0,4.0,1998-12-16,,Hail,Hailstorm,Brisbane,76.0,254.0,272.325
+1998.0,4.0,1998-11-14,,Storm,Storm,Brisbane,7.0,23.0,24.659
+1998.0,4.0,1998-10-13,,Storm,Storm,SEQLD,23.0,80.0,85.772
+1998.0,3.0,1998-08-17,,"Flood, Storm","Flood, Storm",Wollongong,40.0,97.0,103.998
+1998.0,3.0,1998-08-06,,Storm,Storm,Sydney,10.0,25.0,26.804
+1998.0,2.0,1998-06-24,,Flood,Flood,East Gippsland,1.3,3.0,3.216
+1998.0,2.0,1998-06-23,,Storm,Storm,Hunter Valley,12.0,39.0,41.814
+1998.0,2.0,1998-04-09,,"Flood, Storm","Flood, Storm",Sydney,10.0,28.0,30.02
+1998.0,1.0,1998-02-04,,Storm,Storm,Sydney,12.0,34.0,36.453
+1998.0,1.0,1998-01-26,,Flood,Flood,Katherine,70.0,201.0,215.501
+1998.0,1.0,1998-01-10,,"Flood, Storm","Flood, Storm",Townsville,71.0,245.0,262.675
+1998.0,1.0,1998-01-05,,Storm,Storm,Nyngan,12.0,27.0,28.948
+1997.0,4.0,1997-12-21,,Bushfire,Bushfire,Menai,3.0,8.0,8.577
+1997.0,4.0,1997-12-19,,Storm,Storm,Sydney,40.0,113.0,121.152
+1997.0,4.0,1997-11-16,,Storm,Storm,Grafton,5.0,13.0,13.938
+1997.0,1.0,1997-03-31,,Hail,Hailstorm,SE,10.0,41.0,43.958
+1997.0,1.0,1997-03-22,,Cyclone Justin,Cyclone,Cairns,8.0,27.0,28.948
+1997.0,1.0,1997-02-21,,Bushfire,Bushfire,Ferny Creek,10.0,29.0,31.092
+1996.0,4.0,1996-12-11,,Hail,Hailstorm,Singleton,49.0,149.0,159.749
+1996.0,4.0,1996-12-04,,Storm,Storm,Brisbane,4.0,4.0,4.289
+1996.0,4.0,1996-11-23,,Storm,Storm,Coffs Harbour,20.0,67.0,71.834
+1996.0,4.0,1996-11-14,,Hail,Hailstorm,Tamworth,10.0,28.0,30.02
+1996.0,3.0,1996-09-29,,Hail,Hailstorm,"Armidale , Tamworth",104.0,288.0,308.778
+1996.0,3.0,1996-08-31,,Storm,Storm,Sydney,10.0,30.0,32.164
+1996.0,2.0,1996-05-03,,Flood,Flood,SE QLD,31.0,134.0,143.667
+1996.0,2.0,1996-04-05,,Cyclone Olivia,Cyclone,Pannawonica,2.0,6.0,6.433
+1996.0,1.0,1996-01-31,,Storm,Storm,Sydney,14.0,43.0,46.102
+1995.0,4.0,1995-11-06,,Hail,Hailstorm,SE QLD,40.0,166.0,177.976
+1995.0,1.0,1995-02-25,,Cyclone Bobby,Cyclone,Kalgoolie,11.0,48.0,51.463
+1994.0,4.0,1994-11-20,,Storm,Storm,Sydney,29.0,100.0,107.214
+1994.0,3.0,1994-08-06,,Earthquake,Earthquake,Cessnock,37.2,115.0,123.297
+1994.0,2.0,1994-05-23,,Storm,Storm,Perth,37.0,187.0,200.491
+1994.0,1.0,1994-01-16,,Bushfire,Bushfire,Eastern Seaboard,59.1,215.0,230.511
+1993.0,4.0,1993-12-14,,Storm,Storm,Melbourne,12.0,44.0,47.174
+1993.0,4.0,1993-10-03,,Flood,Flood,"Benalla , Shepparton",12.0,44.0,47.174
+1992.0,1.0,1992-02-12,,Hail,Hailstorm,Sydney,118.0,441.0,472.816
+1992.0,1.0,1992-02-08,,"Flood, Storm","Flood, Storm",Perth,4.0,22.0,23.587
+1991.0,4.0,1991-12-20,,Flood,Flood,"Melbourne , Ballarat",24.0,90.0,96.493
+1991.0,4.0,1991-10-16,,Bushfire,Bushfire,Central Coast,12.0,54.0,57.896
+1991.0,2.0,1991-06-07,,"Flood, Storm","Flood, Storm",SE NSW,15.0,57.0,61.112
+1991.0,1.0,1991-01-24,,Hail,Hailstorm,Orbost,12.0,32.0,34.309
+1991.0,1.0,1991-01-22,,Hail,Hailstorm,Adelaide,30.0,112.0,120.08
+1991.0,1.0,1991-01-21,,Storm,Storm,Sydney,138.4,525.0,562.876
+1990.0,4.0,1990-12-27,,Bushfire,Bushfire,,10.0,32.0,34.309
+1990.0,4.0,1990-12-26,,"Flood, Storm","Flood, Storm",Rockhampton to Cairns,32.0,121.0,129.729
+1990.0,3.0,1990-08-03,,Storm,Storm,Sydney,12.0,46.0,49.319
+1990.0,2.0,1990-04-18,,Flood,Flood,"NSW/QLD Nyngan , Charlivlle",30.0,99.0,106.142
+1990.0,1.0,1990-03-18,,Hail,Hailstorm,Sydney,319.0,1297.0,1390.571
+1990.0,1.0,1990-02-10,,Hail,Hailstorm,Sydney,10.0,41.0,43.958
+1990.0,1.0,1990-02-07,,Hail,Hailstorm,Dubbo,9.0,35.0,37.525
+1990.0,1.0,1990-02-03,,Cyclone Nancy,Cyclone,Sydney to Brisbane,33.0,197.0,211.212
+1989.0,4.0,1989-12-28,,Earthquake,Earthquake,Newcastle,862.0,3240.0,3473.747
+1989.0,4.0,1989-11-16,,Hail,Hailstorm,Ballarat,20.0,81.0,86.844
+1989.0,2.0,1989-04-04,,Cyclone Aivu,Cyclone,Townsville to Mackay,26.0,138.0,147.956
+1989.0,1.0,1989-02-07,,"Flood, Storm","Flood, Storm",Melbourne,17.0,74.0,79.339
+1988.0,4.0,1988-11-30,,"Flood, Storm","Flood, Storm",Melbourne,11.0,48.0,51.463
+1988.0,3.0,1988-08-22,,Storm,Storm,SW WA,8.0,60.0,64.329
+1988.0,2.0,1988-05-21,,Cyclone Herbie,Cyclone,Carnarvon to Denham,20.0,117.0,125.441
+1988.0,2.0,1988-04-30,,Flood,Flood,Sydney,25.0,139.0,149.028
+1988.0,2.0,1988-04-01,,Flood,Flood,Alice Springs,10.0,68.0,72.906
+1987.0,4.0,1987-11-09,,Flood,Flood,Melbourne,8.0,40.0,42.886
+1987.0,3.0,1987-07-29,,"Flood, Storm","Flood, Storm",East Perth,2.0,17.0,18.226
+1987.0,1.0,1987-02-01,,Bushfire,Bushfire,Southern,7.0,32.0,34.309
+1986.0,4.0,1986-12-06,,Storm,Storm,Adelaide,10.0,50.0,53.607
+1986.0,4.0,1986-10-03,,Hail,Hailstorm,Western Sydney,104.0,638.0,684.028
+1986.0,3.0,1986-08-05,,"Flood, Storm","Flood, Storm",Sydney,35.0,215.0,230.511
+1986.0,1.0,1986-02-01,,Cyclone Winifred,Cyclone,Cairns to Ingham,40.0,205.0,219.79
+1986.0,1.0,1986-01-21,,Hail,Hailstorm,Orange,25.0,160.0,171.543
+1985.0,1.0,1985-01-18,,Hail,Hailstorm,Brisbane,180.0,2063.0,2211.834
+1985.0,3.0,1985-09-10,,Hail,Hailstorm,Melbourne,10.0,63.0,67.545
+1984.0,4.0,1984-11-05,,Flood,Flood,Sydney,80.0,578.0,619.699
+1984.0,3.0,1984-09-01,,Bushfire,Bushfire,"Central , Southern",25.0,179.0,191.914
+1984.0,1.0,1984-03-19,,Cyclone Kathy,Cyclone,Borroloola,5.0,35.0,37.525
+1983.0,1.0,1983-02-16,,Bushfire Ash Wednesday,Bushfire,,138.0,1489.0,1596.423
+1983.0,1.0,1983-02-16,,Bushfire Ash Wednesday,Bushfire,,38.0,307.0,329.148
+1982.0,4.0,1982-11-15,,Storm,Storm,Melbourne,10.0,84.0,90.06
+1981.0,1.0,1981-02-07,,"Flood, Storm","Flood, Storm",Dalby,20.0,205.0,219.79
+1980.0,4.0,1980-12-16,,Hail,Hailstorm,Brighton,15.0,238.0,255.17
+1980.0,4.0,1980-12-15,,Cyclone Carol,Cyclone,Brisbane,7.5,119.0,127.585
+1980.0,1.0,1980-02-20,,Bushfire,Bushfire,Adelaide Hills,13.0,132.0,141.523
+1980.0,1.0,1980-02-01,,Cyclone Dean,Cyclone,Pilbara,2.5,27.0,28.948
+1980.0,1.0,1980-01-10,,Cyclone Amy,Cyclone,Port Headland,2.7,31.0,33.236
+1979.0,4.0,1979-11-14,,Hail,Hailstorm,Port Broughton,10.0,92.0,98.637
+1979.0,2.0,1979-06-02,,Earthquake,Earthquake,Cadoux,3.5,38.0,40.741
+1979.0,1.0,1979-03-13,,Cyclone Hazel,Cyclone,"Kimberley , Pilbara Coast",15.0,202.0,216.573
+1978.0,2.0,1978-04-04,,Cyclone Alby,Cyclone,Perth,13.0,265.0,284.118
+1978.0,1.0,1978-03-01,,Storm,Storm,North Coast,5.0,94.0,100.782
+1978.0,1.0,1978-02-10,,Storm,Storm,"Sydney, Newcastle, Wollongong",15.0,215.0,230.511
+1978.0,1.0,1978-01-21,,"Flood, Storm","Flood, Storm",Sydney,7.0,101.0,108.287
+1977.0,1.0,1977-03-01,,Flood,Flood,Clarence River,7.0,98.0,105.07
+1977.0,1.0,1977-02-12,,Bushfire,Bushfire,Western Districts,9.0,101.0,108.287
+1977.0,1.0,1977-02-05,,Storm,Storm,"Tongala, Echuca",4.0,70.0,75.05
+1977.0,1.0,1977-01-21,,Storm,Storm,Sydney,15.0,244.0,261.603
+1976.0,4.0,1976-12-19,,Cyclone Harry,Cyclone,,15.0,310.0,332.365
+1976.0,4.0,1976-11-10,,Hail,Hailstorm,Sydney,40.0,650.0,696.894
+1976.0,1.0,1976-02-22,,Cyclone Beth,Cyclone,Bundaberg,3.0,40.0,42.886
+1976.0,1.0,1976-01-09,,Hail,Hailstorm,Toowoomba,12.0,282.0,302.345
+1975.0,4.0,1975-12-07,,Cyclone Thelma,Cyclone,Port Headland,20.0,398.0,426.713
+1975.0,1.0,1975-03-09,,Flood,Flood,Sydney,15.0,339.0,363.457
+1974.0,4.0,1974-12-24,,Cyclone Tracy,Cyclone,Darwin,200.0,4090.0,4385.07
+1974.0,2.0,1974-05-25,,Hail,Hailstorm,Sydney,20.0,509.0,545.721
+1974.0,2.0,1974-05-15,,Flood,Flood,NE VIC,4.0,117.0,125.441
+1974.0,2.0,1974-04-24,,Flood,Flood,Sydney,20.0,509.0,545.721
+1974.0,1.0,1974-03-13,,Cyclone Zoe,Cyclone,Port Macquarie to Brisbane,2.0,171.0,183.337
+1974.0,1.0,1974-01-25,,"Cyclone, W,a Flood",Cyclone,Brisbane,68.0,2645.0,2835.822
+1973.0,1.0,1973-03-04,,Cyclone Leah,Cyclone,Northern Australia,30.0,1492.0,1599.639
+1972.0,1.0,1972-02-11,,Cyclone Daisy,Cyclone,"Brisbane , the Gold Coast",2.0,116.0,124.369
+1971.0,4.0,1971-12-24,,Cyclone Althea,Cyclone,Townsville,25.0,648.0,694.749
+1971.0,1.0,1971-02-01,,Flood,Flood,Gippsland,2.0,53.0,56.824
+1970.0,3.0,1970-09-01,,Flood,Flood,North,5.0,157.0,168.327
+1970.0,1.0,1970-01-18,,Cyclone Ada,Cyclone,"Bowen , Mackay",12.0,1001.0,1073.216
+1968.0,4.0,1968-10-14,,Earthquake,Earthquake,Meckering,1.5,57.0,61.112
+1967.0,4.0,1967-12-19,,Hail,Hailstorm,Brisbane,5.0,396.0,424.569
+1967.0,1.0,1967-02-08,,Bushfire,Bushfire,Hobart,14.0,610.0,654.008
