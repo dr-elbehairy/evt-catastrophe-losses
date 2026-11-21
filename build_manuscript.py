@@ -178,7 +178,7 @@ P("The design is a comparative tail analysis. One estimation procedure is applie
   "literature has calibrated itself since McNeil (1997), which ties the new estimates to the prior evidence of Section 2.3.", indent=True)
 P(f"Table 1 describes the data. The U.S. register is the National Centers for Environmental Information record of weather and climate disasters whose "
   f"direct cost reached USD 1 billion, CPI-adjusted to 2024 dollars: {US['n']} events from 1980 to 2024 across severe storms, tropical cyclones, floods, "
-  f"droughts, winter storms, wildfires and freezes (NOAA NCEI, 2025); Climate Central has maintained the series since 2025 (Climate Central, 2026). The "
+  f"droughts, winter storms, wildfires and freezes (NOAA National Centers for Environmental Information [NCEI], 2025); Climate Central has maintained the series since 2025 (Climate Central, 2026). The "
   f"Danish data are the {DK['n']:,} fire losses above DKK 1 million recorded by Copenhagen Re between 1980 and 1990 and used by McNeil (1997); the Norwegian "
   f"data are {NO['n']:,} fire losses above NOK 500,000 from 1972 to 1992 at 2012 prices. The New Zealand and Australian registers are the catastrophe lists "
   f"of the two national insurance councils, {NZ['n']} and {AU['n']} events from 1967–1968 to 2014 normalised to 2014 exposure. All four are distributed in "
